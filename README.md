@@ -1,6 +1,6 @@
 ## AI4S Toolkit: Machine Learning for Materials Science
 
-This repository serves as a personal knowledge base and implementation toolkit for my transition into **AI for Science (AI4S)**.
+This repository serves as a personal knowledge base and implementation toolkit for my study into **AI for Science (AI4S)**.
 
 ## 📚 Learning Milestones
 - **Machine Learning Foundations:** Systematically completed core modules of [Machine Learning by Andrew Ng](https://www.coursera.org).
