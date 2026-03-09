@@ -5,7 +5,7 @@ This repository serves as a personal knowledge base and implementation toolkit f
 ## 📚 Learning Milestones
 - **Machine Learning Foundations:** Systematically completed core modules of [Machine Learning by Andrew Ng](https://www.coursera.org).
 - **Data Science Workflow:** Proficient in data cleaning, exploratory data analysis (EDA), and predictive modeling using the Python scientific stack.
-- **Computational Physics to ML:** Bridging domain-specific knowledge from [Nature Nanotechnology](https://www.nature.com) studies into data-driven frameworks.
+- **Computational Physics to ML:** Bridging domain-specific knowledge from [Nature Nanotechnology](https://www.nature.com/nnano) studies into data-driven frameworks.
 
 ## 🧪 Featured Demos
 - **`battery_cycle_regression.ipynb`:** 
